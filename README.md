@@ -24,9 +24,9 @@ The primary objective of any library system is to **collect**, **store**, **orga
 2)By using Pycharm connect with MySQL Server and create functions related in this.
 
 ## Tools Used:
-[!(<img align="left" width="100" height="100" src="https://github.com/maityanubhab/Library_management_system/blob/master/Image/MySQL-Logo.wine.png">)](#https://www.mysql.com/)
-[!(<img align="left" width="100" height="100" src="https://github.com/maityanubhab/Library_management_system/blob/master/Image/pycharm_logo_300x300.png">)](#https://www.jetbrains.com/pycharm/)
-[!(<img align="left" width="100" height="100" src="https://github.com/maityanubhab/Library_management_system/blob/master/Image/python-logo-master-v3-TM-flattened.png">)](#https://www.python.org/)
+[![MySQL](<img align="left" width="100" height="100" src="https://github.com/maityanubhab/Library_management_system/blob/master/Image/MySQL-Logo.wine.png">)](#https://www.mysql.com/)
+[![Pycharm](<img align="left" width="100" height="100" src="https://github.com/maityanubhab/Library_management_system/blob/master/Image/pycharm_logo_300x300.png">)](#https://www.jetbrains.com/pycharm/)
+[![python](<img align="left" width="100" height="100" src="https://github.com/maityanubhab/Library_management_system/blob/master/Image/python-logo-master-v3-TM-flattened.png">)](#https://www.python.org/)
 <br/><Br/><BR/>
 
 <h1 align="left"> Learning:</h1>
