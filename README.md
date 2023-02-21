@@ -28,7 +28,6 @@ The primary objective of any library system is to **collect**, **store**, **orga
 <img align="left" width="100" height="100" src="https://github.com/maityanubhab/Library_management_system/blob/master/Image/pycharm_logo_300x300.png">
 <img align="left" width="100" height="100" src="https://github.com/maityanubhab/Library_management_system/blob/master/Image/python-logo-master-v3-TM-flattened.png"><br>
 
-
 ## Learning:
 **MySQL**: Create table, Insert information to the table, Where, Update, Delete <br>
 **Python**: Function,User input
